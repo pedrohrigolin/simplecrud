@@ -1,0 +1,99 @@
+{
+    "clientes": {
+
+        "0" : {
+            "id" : 0,
+            "tipo": "Empresa",
+            "identidade": "90.906.953/0001-06",
+            "nome": "Elisa e Augusto Eletrônica Ltda",
+            "nomeContato": "Nome de Contato",
+            "nascimento": "",
+            "abertura": "20/12/2011",
+            "emailEmpresa": "qualidade@elisaeaugustoeletronicaltda.com.br",
+            "emailPessoal": "emailpessoal@gmail.com",
+            "telEmpresa": "(41) 3910-0870",
+            "telPessoal": "(41) 99255-4790",
+            "endereço": {
+                "cep": "81200-640",
+                "estado": "Paraná",
+                "cidade": "Curitiba",
+                "bairro": "Mossunguê",
+                "rua": "Rua Myriam de Lourdes Neves",
+                "numero": "256",
+                "complemento": "Conj 568"
+            },
+            "clienteDesde": "12/05/2015"
+        },
+        "1" : {
+            "id" : 1,
+            "tipo": "Pessoa",
+            "identidade": "152.186.557-40",
+            "nome": "Valentina Maya Corte Real",
+            "nomeContato": "",
+            "nascimento": "22/01/2000",
+            "abertura": "",
+            "emailEmpresa": "",
+            "emailPessoal": "valentina_cortereal@publicarbrasil.com.br",
+            "telEmpresa": "",
+            "telPessoal": "(31) 99397-3020",
+            "endereço": {
+                "cep": "32260-240",
+                "estado": "Minas Gerais",
+                "cidade": "Contagem",
+                "bairro": "Inconfidentes",
+                "rua": "Rua Cinquenta e Um",
+                "numero": "355",
+                "complemento": ""
+            },
+            "clienteDesde": "30/12/2018"
+        },
+        "2" : {
+            "id" : 2,
+            "tipo": "Empresa",
+            "identidade": "45.310.141/0001-49",
+            "nome": "Nicolas e Bianca Marcenaria Ltda",
+            "nomeContato": "",
+            "nascimento": "",
+            "abertura": "26/11/2020",
+            "emailEmpresa": "fabricacao@nicolasebiancamarcenarialtda.com.br",
+            "emailPessoal": "",
+            "telEmpresa": "(19) 98927-3287",
+            "telPessoal": "",
+            "endereço": {
+                "cep": "13603-058",
+                "estado": "São Paulo",
+                "cidade": "Araras",
+                "bairro": "Jardim Rosana",
+                "rua": "Rua Arnaldo Russo",
+                "numero": "519",
+                "complemento": ""
+            },
+            "clienteDesde": "09/10/2011"
+        },
+        "3" : {
+            "id" : 3,
+            "tipo": "Pessoa",
+            "identidade": "967.405.674-25",
+            "nome": "André Pedro Henrique Roberto Martins",
+            "nomeContato": "",
+            "nascimento": "23/01/2004",
+            "abertura": "",
+            "emailEmpresa": "",
+            "emailPessoal": "andre.pedro.martins@ne.com",
+            "telEmpresa": "",
+            "telPessoal": "(83) 99237-8569",
+            "endereço": {
+                "cep": "58084-102",
+                "estado": "Paraíba",
+                "cidade": "João Pessoa",
+                "bairro": "Jardim Veneza",
+                "rua": "Rua José Ferreira de Lima",
+                "numero": "981",
+                "complemento": ""
+            },
+            "clienteDesde": "05/05/2016"
+        },
+        "lastID": 3
+
+    }
+}
