@@ -1,10 +1,52 @@
 # CRUD Simples
 
-Crud simples sem usar banco de dados e back-end. Usa apenas um arquivo json para armazenamento de dados pré carregados, e após a aplicação iniciar o armazenamento é feito localmente com o localStorage. 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![SweetAlert](https://img.shields.io/badge/SweetAlert-FF6F61?style=for-the-badge)
+![Mailcheck](https://img.shields.io/badge/Mailcheck-0078D7?style=for-the-badge)
+![localStorage](https://img.shields.io/badge/localStorage-4CAF50?style=for-the-badge)
 
-Ainda é feito o uso do SweetAlert para alertas dinâmicos e personalizados, e da biblioteca Mailcheck para a verificação de emails.
+Projeto front-end simples para gerenciamento de dados sem banco de dados ou back-end.
 
-As API's usadas são a CNPJÁ para verificação do CNPJ e para a obtenção de dados a partir do CNPJ informado, e ViaCEP para a verificação do CEP e obtenção de dados a partir do CEP informado.
+Utiliza um arquivo JSON pré-carregado para o armazenamento inicial e, após a aplicação iniciar, os dados são armazenados localmente usando o `localStorage`.
 
-CNPJÁ: https://cnpja.com/api/open
-ViaCEP: https://viacep.com.br/
+### Funcionalidades adicionais:
+- Alertas dinâmicos e personalizados com **SweetAlert**.
+- Validação de emails com a biblioteca **Mailcheck**.
+- Integração com APIs externas para consulta e validação:
+  - **CNPJÁ**: validação e obtenção de dados do CNPJ ([https://cnpja.com/api/open](https://cnpja.com/api/open))
+  - **ViaCEP**: consulta e validação de CEP ([https://viacep.com.br/](https://viacep.com.br/))
+
+Este projeto foi criado principalmente como um portfólio básico para demonstrar habilidades em front-end.
+
+---
+
+Sinta-se à vontade para explorar, usar ou adaptar conforme sua necessidade.
+
+
+---
+
+# Simple CRUD
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![SweetAlert](https://img.shields.io/badge/SweetAlert-FF6F61?style=for-the-badge)
+![Mailcheck](https://img.shields.io/badge/Mailcheck-0078D7?style=for-the-badge)
+![localStorage](https://img.shields.io/badge/localStorage-4CAF50?style=for-the-badge)
+
+A simple front-end project for data management without using a database or back-end.
+
+It uses a preloaded JSON file for initial data storage, and after the application starts, data is stored locally using `localStorage`.
+
+### Additional features:
+- Dynamic and customizable alerts with **SweetAlert**.
+- Email validation using the **Mailcheck** library.
+- Integration with external APIs for data lookup and validation:
+  - **CNPJÁ**: CNPJ validation and data retrieval ([https://cnpja.com/api/open](https://cnpja.com/api/open))
+  - **ViaCEP**: ZIP code lookup and validation ([https://viacep.com.br/](https://viacep.com.br/))
+
+This project was primarily created as a basic portfolio to showcase front-end skills.
+
+---
+
+Feel free to explore, use, or adapt it as needed.
+
+---
